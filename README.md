@@ -18,6 +18,7 @@ For any questions or inquiries, write me an email directly.
 ## Lectures slides
 
 - 24/09/24: [session 1 - general introduction](./lectures/session1.pdf)
+- 01/10/24: [session 2 - existence, uniqueness, optimality conditions](./lectures/session2.pdf)
 
 ## Notebooks
 
