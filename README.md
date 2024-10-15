@@ -19,6 +19,7 @@ For any questions or inquiries, write me an email directly.
 
 - 24/09/24: [session 1 - general introduction](./lectures/session1.pdf)
 - 01/10/24: [session 2 - existence, uniqueness, optimality conditions](./lectures/session2.pdf)
+- 08/10/24: [session 3 - least squares problems](./lectures/session3.pdf)
 
 ## Notebooks
 
