@@ -25,3 +25,5 @@ For any questions or inquiries, write me an email directly.
 ## Notebooks
 
 - TP1: solving least squares problems [.ipynb file](https://github.com/jflamant/mines-nancy-fall24-optimization/blob/main/notebooks/TP1.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/jflamant/mines-nancy-fall24-optimization/blob/main/notebooks/TP1.ipynb)
+- TP2: first and second-order descent methods[.ipynb file](https://github.com/jflamant/mines-nancy-fall24-optimization/blob/main/notebooks/TP2.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/jflamant/mines-nancy-fall24-optimization/blob/main/notebooks/TP2.ipynb)
+
