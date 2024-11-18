@@ -22,6 +22,7 @@ For any questions or inquiries, write me an email directly.
 - 08/10/24: [session 3 - least squares problems](./lectures/session3.pdf)
 - 22/10/24: [session 4 - unconstrained optimization: first and second-order descent algorithms](./lectures/session4.pdf)
 - 12/11/24: [session 5 - about convegence](./lectures/session5.pdf)
+- 19/11/24: [session 6 - conjugate gradient methods](./lectures/session6.pdf)
 
 ## Notebooks
 
