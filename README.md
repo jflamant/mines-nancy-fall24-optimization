@@ -24,6 +24,7 @@ For any questions or inquiries, write me an email directly.
 - 12/11/24: [session 5 - about convergence](./lectures/session5.pdf)
 - 19/11/24: [session 6 - conjugate gradient methods](./lectures/session6.pdf)
 - 03/12/24: [session 7 - theory of constrained convex optimization](./lectures/session7.pdf)
+- 10/12/24: [session 8 - algorithms for constrained convex optimization](./lectures/session8.pdf)
 
 ## Notebooks
 
